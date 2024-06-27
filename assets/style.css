@@ -189,9 +189,9 @@ h4 {
   border-bottom-left-radius: 60px;
   border-top-right-radius: 60px;
 }
-/* .about {
-  background-color: #eeeeee;
-} */
+.about {
+  background-color:#F4F4F2;
+}
 .chooce-right {
   justify-content: space-evenly;
 }

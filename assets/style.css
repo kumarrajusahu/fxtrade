@@ -143,9 +143,9 @@ h4 {
   background-repeat: no-repeat;
   background-size: cover;
 }
-#about {
+/* #about {
   background-color: #eeeeee;
-}
+} */
 .bold {
   font-weight: 700;
 }
@@ -189,9 +189,9 @@ h4 {
   border-bottom-left-radius: 60px;
   border-top-right-radius: 60px;
 }
-.about {
+/* .about {
   background-color: #eeeeee;
-}
+} */
 .chooce-right {
   justify-content: space-evenly;
 }
@@ -507,7 +507,7 @@ animation-iteration-count: infinite;
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .add-border {
-    width: 50% !important;
+    width: 57% !important;
   }
   .logo {
     width: 70% !important;

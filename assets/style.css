@@ -143,9 +143,9 @@ h4 {
   background-repeat: no-repeat;
   background-size: cover;
 }
-/* #about {
-  background-color: #eeeeee;
-} */
+#about {
+  background-color: #F4F4F2;
+}
 .bold {
   font-weight: 700;
 }
@@ -190,7 +190,7 @@ h4 {
   border-top-right-radius: 60px;
 }
 .about {
-  background-color:#F4F4F2;
+/*   background-color:#F4F4F2; */
 }
 .chooce-right {
   justify-content: space-evenly;

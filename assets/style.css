@@ -144,7 +144,7 @@ h4 {
   background-size: cover;
 }
 #about {
-  background-color: #F4F4F2;
+  background-color: #F4F4F2 ! important;
 }
 .bold {
   font-weight: 700;

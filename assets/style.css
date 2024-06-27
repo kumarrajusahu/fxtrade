@@ -649,15 +649,15 @@ animation-iteration-count: infinite;
     animation-name: move-left;
     animation-duration: 3s;
     animation-timing-function: ease-out;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 1;
   }
 
   @keyframes move-left {
     0% {
-      transform: translate(0px);
+      transform: translate(-100px);
     }
     100% {
-      transform: translate(100px);
+      transform: translate(50px);
     }
   }
 }

@@ -136,7 +136,7 @@ h4 {
 }
 .about-right {
   padding-top: 5em;
-  padding-right: 11em;
+  padding-right: 0em;
 }
 .about-left {
   background-image: url(images/about-background-img.png);
